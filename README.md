@@ -12,8 +12,7 @@ This project demonstrates how to connect a frontend application to a smart contr
 - [Contributing](#contributing)
 - [Screenshot](#screenshots)
 - [License](#license)
-
-## Documentation - [Confluence link](https://shubhraj.atlassian.net/wiki/x/TgAr)
+- [Confluence link](https://shubhraj.atlassian.net/wiki/x/TgAr)
 
 ## Prerequisites
 
