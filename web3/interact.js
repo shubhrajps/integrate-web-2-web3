@@ -2,7 +2,7 @@ const { Web3 } = require("web3");
 const path = require("path");
 const fs = require("fs");
 
-const web3 = new Web3("http://127.0.0.1:7545/");
+const web3 = new Web3("http://127.0.0.1:8545/");
 
 // Read the contract address from the file system
 const deployedAddressPath = path.join(__dirname, "MyContractAddress.txt");
