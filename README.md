@@ -25,7 +25,7 @@ This project demonstrates how to connect a frontend application to a smart contr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/shubhrajps/web3-project.git
+    git clone https://github.com/shubhrajps/integrate-web-2-web3.git
     ```
 
 2. Navigate to the project directory:
