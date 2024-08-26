@@ -9,6 +9,7 @@
   "author": "Shubhraj Prasad Singh",
   "license": "ISC",
   "dependencies": {
-    "web3": "^1.5.3"
+    "web3": "^1.5.3",
+    "web3.js-browser": "^0.2.0"
   }
 }
