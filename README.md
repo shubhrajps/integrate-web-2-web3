@@ -65,18 +65,22 @@ The smart contract is written in Solidity and contains the following functionali
 The front end is built with React and uses web3.js to interact with the smart contract. It includes the following components:
 
 ## Screenshots
-Accessing the blockchain in the web console
-![Screenshot 2024-08-26 at 2 17 59 PM](https://github.com/user-attachments/assets/0546e3db-5501-4397-93c9-c6577becd0fa)
 
-Tracking the blockchain locally
-![Screenshot 2024-08-26 at 5 03 56 PM](https://github.com/user-attachments/assets/83968f71-a51b-4c08-9870-9f5770af44be)
-![Screenshot 2024-08-26 at 5 01 06 PM](https://github.com/user-attachments/assets/b91adb06-f59b-4a90-871d-c54203aaf0a9)
+### Accessing the Blockchain in the Web Console
+![Accessing the blockchain in the web console](https://github.com/user-attachments/assets/0546e3db-5501-4397-93c9-c6577becd0fa)
 
-ABI and bytecode generated
-![Screenshot 2024-08-26 at 5 01 14 PM](https://github.com/user-attachments/assets/16b226dc-ad33-44ed-8f14-7c494e9e86b4)
+### Tracking the Blockchain Locally
+![Tracking the blockchain locally - Screenshot 1](https://github.com/user-attachments/assets/83968f71-a51b-4c08-9870-9f5770af44be)
+![Tracking the blockchain locally - Screenshot 2](https://github.com/user-attachments/assets/b91adb06-f59b-4a90-871d-c54203aaf0a9)
 
-Updating the value via smart contract
-![Screenshot 2024-08-26 at 5 01 20 PM](https://github.com/user-attachments/assets/9c64a858-74b7-44df-9246-45c7cc42ca4d)
+### ABI and Bytecode Generated
+![ABI and bytecode generated](https://github.com/user-attachments/assets/16b226dc-ad33-44ed-8f14-7c494e9e86b4)
+
+### Updating the Value via Smart Contract
+![Updating the value via smart contract](https://github.com/user-attachments/assets/9c64a858-74b7-44df-9246-45c7cc42ca4d)
+
+### Search Results
+- [Accessing the blockchain in the web console](https://github.com/user-attachments/assets/0546e3db-5501-4397-93c9-c6577becd0fa)
 
 ## Contributing
 
