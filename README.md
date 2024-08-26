@@ -10,7 +10,10 @@ This project demonstrates how to connect a frontend application to a smart contr
 - [Smart Contract](#smart-contract)
 - [Frontend](#frontend)
 - [Contributing](#contributing)
+- [Screenshot](#screenshots)
 - [License](#license)
+
+## Documentation - [Confluence link](https://shubhraj.atlassian.net/wiki/x/TgAr)
 
 ## Prerequisites
 
@@ -80,7 +83,7 @@ The front end is built with React and uses web3.js to interact with the smart co
 ![Updating the value via smart contract](https://github.com/user-attachments/assets/9c64a858-74b7-44df-9246-45c7cc42ca4d)
 
 ### Search Results
-- [Accessing the blockchain in the web console](https://github.com/user-attachments/assets/0546e3db-5501-4397-93c9-c6577becd0fa)
+![Accessing the blockchain in the web console](https://github.com/user-attachments/assets/0546e3db-5501-4397-93c9-c6577becd0fa)
 
 ## Contributing
 
