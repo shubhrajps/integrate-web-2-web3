@@ -44,24 +44,39 @@ This project demonstrates how to connect a frontend application to a smart contr
 
 2. Update the contract address and ABI in the frontend code.
 
-3. Start the development server:
+3. Start the blockchain:
 
     ```bash
-    npm start
+    node index.js
     ```
-
-4. Open your browser and navigate to `http://localhost:3000` to interact with the frontend.
+4. Run interact.js to update the number
+   ```bash
+   node interact.js
+   ```
 
 ## Smart Contract
 
 The smart contract is written in Solidity and contains the following functionality:
 
-- Function to store a value
-- Function to retrieve the stored value
+- Function to update the value
 
 ## Frontend
 
-The frontend is built with React and uses web3.js to interact with the smart contract. It includes the following components:
+The front end is built with React and uses web3.js to interact with the smart contract. It includes the following components:
+
+## Screenshots
+Accessing the blockchain in the web console
+![Screenshot 2024-08-26 at 2 17 59 PM](https://github.com/user-attachments/assets/0546e3db-5501-4397-93c9-c6577becd0fa)
+
+Tracking the blockchain locally
+![Screenshot 2024-08-26 at 5 03 56 PM](https://github.com/user-attachments/assets/83968f71-a51b-4c08-9870-9f5770af44be)
+![Screenshot 2024-08-26 at 5 01 06 PM](https://github.com/user-attachments/assets/b91adb06-f59b-4a90-871d-c54203aaf0a9)
+
+ABI and bytecode generated
+![Screenshot 2024-08-26 at 5 01 14 PM](https://github.com/user-attachments/assets/16b226dc-ad33-44ed-8f14-7c494e9e86b4)
+
+Updating the value via smart contract
+![Screenshot 2024-08-26 at 5 01 20 PM](https://github.com/user-attachments/assets/9c64a858-74b7-44df-9246-45c7cc42ca4d)
 
 ## Contributing
 
