@@ -1,9 +1,9 @@
 //SPDX-License-Identifier: UNLICENSED
-pragma solidity >= 0.5.0 < 0.9.0;
+pragma solidity ^0.8.0;
 
-contract demo{
+contract demo {
     uint public x = 10;
-    function set(uint _x) public{
+    function set(uint _x) public {
         x = _x;
     }
 }

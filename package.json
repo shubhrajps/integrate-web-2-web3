@@ -10,8 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "solc": "^0.8.26",
-    "web3": "^1.5.3",
+    "hardhat": "^2.22.9",
+    "path": "^0.12.7",
+    "solc": "^0.8.0",
+    "web3": "^4.12.1",
     "web3.js-browser": "^0.2.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
   }
 }
